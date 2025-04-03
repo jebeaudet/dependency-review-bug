@@ -1,0 +1,17 @@
+{
+    "name": "dependency-review-bug",
+    "version": "1.0.0",
+    "description": "A project to demonstrate dependency review with allowed licenses.",
+    "main": "index.js",
+    "scripts": {
+      "build": "tsc",
+      "test": "echo \"No tests specified\" && exit 0"
+    },
+    "dependencies": {
+      "lodash": "^4.17.21"
+    },
+    "devDependencies": {
+      "typescript": "^4.0.0"
+    },
+    "license": "Apache-2.0"
+  }
